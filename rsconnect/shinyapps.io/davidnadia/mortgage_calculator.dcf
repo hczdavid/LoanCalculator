@@ -1,0 +1,12 @@
+name: mortgage_calculator
+title: mortgage_calculator
+username:
+account: davidnadia
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 2644129
+bundleId: 3480848
+url: https://davidnadia.shinyapps.io/mortgage_calculator/
+when: 1596687702.69627
+asMultiple: FALSE
+asStatic: FALSE
